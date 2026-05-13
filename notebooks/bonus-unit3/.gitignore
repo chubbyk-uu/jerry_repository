@@ -1,0 +1,7 @@
+output/
+video/
+video_v5/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+CLAUDE.md
